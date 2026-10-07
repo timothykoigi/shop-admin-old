@@ -133,7 +133,7 @@ Run tests in watch mode:
 
 ```bash
 npm run test:watch
-```
+``` npx json-server --watch db.json
 
 Run tests with coverage:
 
